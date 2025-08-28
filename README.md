@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeer-r&label=Profile%20views&color=0e75b6&style=flat" alt="hadeer-r" /> </p>
 
-- 🔭 I’m currently working on [enhancing my problem solving skills](https://github.com/hadeer-r/LeetCode)
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning amazing topics in software Development
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
